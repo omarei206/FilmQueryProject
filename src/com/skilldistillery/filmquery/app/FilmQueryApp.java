@@ -14,12 +14,12 @@ public class FilmQueryApp {
 
 	public static void main(String[] args) {
 		FilmQueryApp app = new FilmQueryApp();
-//		app.test();
+		app.test();
 		app.launch();
 	}
 
-//	private void test() {
-//	}
+	private void test() {
+	}
 
 	private void launch() {
 		Scanner input = new Scanner(System.in);
